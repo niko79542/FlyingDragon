@@ -22,6 +22,11 @@
      <item name="android:textColor">@android:color/white</item>
      <item name="android:fontFamily">@font/roboto</item>
      </style> ```
+ 
+ * Data-Binding
+   - DataBindingUtil, ActivityMainBinding, layout, [link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics/index.html?index=..%2F..android-kotlin-fundamentals#2)
+   - add onclick listeners to every view in a binding?
+   - data class for injecting data into your app.
    
  * Questions/Comments 
    - Storing View references as lateinit, initializing in onCreate
