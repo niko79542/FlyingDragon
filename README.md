@@ -13,18 +13,19 @@
   - view.Visibility = View.[GONE/VISIBLE]
   - Chain Views (Spread [default], Spread inside, Packed, Weighted
   - Style resources contain multiple items.
-     ``` <style name="whiteBox">
-   <item name="android:background">@android:color/holo_green_light</item>
-   <item name="android:textAlignment">center</item>
-   <item name="android:textSize">@dimen/box_text_size</item>
-   <item name="android:textStyle">bold</item>
-   <item name="android:textColor">@android:color/white</item>
-   <item name="android:fontFamily">@font/roboto</item>
-</style> ```
+     ```html
+     <style name="whiteBox">
+     <item name="android:background">@android:color/holo_green_light</item>
+     <item name="android:textAlignment">center</item>
+     <item name="android:textSize">@dimen/box_text_size</item>
+     <item name="android:textStyle">bold</item>
+     <item name="android:textColor">@android:color/white</item>
+     <item name="android:fontFamily">@font/roboto</item>
+     </style> ```
    
- * Questions 
-  - Adding eventListeners to multiple views.  Should the List<view> be a lateinit var ?
-  - Wow there are [a lot](https://developer.android.com/reference/android/view/View) of interactive methods available for the View class 
+ * Questions/Comments 
+   - Storing View references as lateinit, initializing in onCreate
+   - Wow there are [a lot](https://developer.android.com/reference/android/view/View) of interactive methods available for the View class 
   
   
 * Toy Apps
