@@ -1,5 +1,13 @@
 # FlyingDragon
 
+* Toy Apps
+  - [Articles with a scrollbar](https://lh3.googleusercontent.com/-9v5kYyPjA9E/XZTOzw-KFrI/AAAAAAAAINw/0L-_S1ghGF0I70FBV_JqIBSNJL6koojJwCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/index.html?index=..%2F..android-kotlin-fundamentals#1)
+  - [Click Counter](https://lh3.googleusercontent.com/-L5lU3tmGTYM/XZTPDyOFpkI/AAAAAAAAIN4/CerE5A-5STwxFcrTXSbUFBzpGHU_qOgrQCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/index.html?index=..%2F..android-training#1)
+  - [Dice Roller](https://lh3.googleusercontent.com/-BBTL_IfKlIM/XZUk7n17OlI/AAAAAAAAIOk/atPN8UOE6GcltWefdEpYO1_G4IHR2Zo4wCK8BGAsYHg/s0/2019-10-02.png) - [Link] - (https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat/index.html?index=..%2F..android-kotlin-fundamentals#1)
+  - [Color Picker](https://lh3.googleusercontent.com/-3135Ax2NMGk/XZUk8JzwllI/AAAAAAAAIOo/m2SMsxP0jbESLSy_ynl5z8ynnD0sJtUeQCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/index.html?index=..%2F..android-kotlin-fundamentals#1)
+
+* Resources 
+  - [Sample Apps](https://github.com/googlesamples)
 
 * UI
   - static resources
@@ -33,11 +41,4 @@
    - Wow there are [a lot](https://developer.android.com/reference/android/view/View) of interactive methods available for the View class 
   
   
-* Toy Apps
-  - [Articles with a scrollbar](https://lh3.googleusercontent.com/-9v5kYyPjA9E/XZTOzw-KFrI/AAAAAAAAINw/0L-_S1ghGF0I70FBV_JqIBSNJL6koojJwCK8BGAsYHg/s0/2019-10-02.png)
-  - [Click Counter](https://lh3.googleusercontent.com/-L5lU3tmGTYM/XZTPDyOFpkI/AAAAAAAAIN4/CerE5A-5STwxFcrTXSbUFBzpGHU_qOgrQCK8BGAsYHg/s0/2019-10-02.png)
-  - [Dice Roller](https://lh3.googleusercontent.com/-BBTL_IfKlIM/XZUk7n17OlI/AAAAAAAAIOk/atPN8UOE6GcltWefdEpYO1_G4IHR2Zo4wCK8BGAsYHg/s0/2019-10-02.png)
-  - [Color Picker](https://lh3.googleusercontent.com/-3135Ax2NMGk/XZUk8JzwllI/AAAAAAAAIOo/m2SMsxP0jbESLSy_ynl5z8ynnD0sJtUeQCK8BGAsYHg/s0/2019-10-02.png)
 
-* Resources 
-  - [Sample Apps](https://github.com/googlesamples)
