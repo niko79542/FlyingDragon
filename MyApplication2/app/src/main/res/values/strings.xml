@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="display_roll">Click to roll</string>
+    <string name="roll_dice">Roll Dice</string>
+</resources>

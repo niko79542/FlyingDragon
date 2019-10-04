@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v13:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/51b0ae686a2f0b2f87225242df8f23a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/f3725fb9e836a346ce442c76f2acb793/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b0bf97b93b2e2ab16e1bddfa2b09971b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/48f615edf6cec8ea4ea30c1c9d045b9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/938398c42c4b7dc81ec654062dc0fc63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02542bcb8cdcb7199b6925841875bba7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/76bb61eed7aa2a40564146c8ae0648ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/930e801bda22fcbac13da7e69ab0ae17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/efe7713e8c8e045d46eab75cf1d190ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/db4fbd7244ba622eb236d19ab78954bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a8cd30f5588117454566385515f0bf07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f1b303e1d178a3b3f87a96ad177f2dbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/104f912e0c9ff733d697d269d94b405c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/604595eaf08e90a8f8485ed287297c31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38288864d6c5cc0e1260cfd23aa301fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/35d2c35706f99d84933f5ec85a9983d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e96c985e6a4f0b1a7472872a4edaa901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/675eca58b0b3dfe36a4bc3a132261b63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8f4e2eb80d76045c16bceea8f041d4a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5873f85af2caf60fd53b667bf4f7998b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e470cf34a854ce30dbd4dc377c2602a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/011b9202b02b72e24e6702ead18a8e6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/28923846f577c98eea4bf3459717955d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eabfe5b13f2cfd632cda5240939ea10d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0a7abbb21d45572e56df83ac4b71b86c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a9d5c21bd300f4aa06dcee458011053a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1bb1a4f02f99a4c81805ed3fef35f025/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2adc378e2ca0fa71f72be93592347f50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b4dfde77c9746bdff0260118bd6a77f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad9a2ab676e6666018599882623d5423/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8f4e2eb80d76045c16bceea8f041d4a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8f4e2eb80d76045c16bceea8f041d4a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5873f85af2caf60fd53b667bf4f7998b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5873f85af2caf60fd53b667bf4f7998b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8f4e2eb80d76045c16bceea8f041d4a/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/51b0ae686a2f0b2f87225242df8f23a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/51b0ae686a2f0b2f87225242df8f23a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/f3725fb9e836a346ce442c76f2acb793/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/f3725fb9e836a346ce442c76f2acb793/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b0bf97b93b2e2ab16e1bddfa2b09971b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b0bf97b93b2e2ab16e1bddfa2b09971b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/48f615edf6cec8ea4ea30c1c9d045b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/48f615edf6cec8ea4ea30c1c9d045b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/938398c42c4b7dc81ec654062dc0fc63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/938398c42c4b7dc81ec654062dc0fc63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02542bcb8cdcb7199b6925841875bba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02542bcb8cdcb7199b6925841875bba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/76bb61eed7aa2a40564146c8ae0648ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/76bb61eed7aa2a40564146c8ae0648ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/930e801bda22fcbac13da7e69ab0ae17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/930e801bda22fcbac13da7e69ab0ae17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/efe7713e8c8e045d46eab75cf1d190ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/efe7713e8c8e045d46eab75cf1d190ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/db4fbd7244ba622eb236d19ab78954bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/db4fbd7244ba622eb236d19ab78954bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a8cd30f5588117454566385515f0bf07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a8cd30f5588117454566385515f0bf07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f1b303e1d178a3b3f87a96ad177f2dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f1b303e1d178a3b3f87a96ad177f2dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/104f912e0c9ff733d697d269d94b405c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/104f912e0c9ff733d697d269d94b405c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/604595eaf08e90a8f8485ed287297c31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/604595eaf08e90a8f8485ed287297c31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38288864d6c5cc0e1260cfd23aa301fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38288864d6c5cc0e1260cfd23aa301fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/35d2c35706f99d84933f5ec85a9983d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/35d2c35706f99d84933f5ec85a9983d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e96c985e6a4f0b1a7472872a4edaa901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e96c985e6a4f0b1a7472872a4edaa901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/675eca58b0b3dfe36a4bc3a132261b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/675eca58b0b3dfe36a4bc3a132261b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8f4e2eb80d76045c16bceea8f041d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b8f4e2eb80d76045c16bceea8f041d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5873f85af2caf60fd53b667bf4f7998b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5873f85af2caf60fd53b667bf4f7998b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e470cf34a854ce30dbd4dc377c2602a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e470cf34a854ce30dbd4dc377c2602a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/011b9202b02b72e24e6702ead18a8e6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/011b9202b02b72e24e6702ead18a8e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/28923846f577c98eea4bf3459717955d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/28923846f577c98eea4bf3459717955d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eabfe5b13f2cfd632cda5240939ea10d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eabfe5b13f2cfd632cda5240939ea10d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0a7abbb21d45572e56df83ac4b71b86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0a7abbb21d45572e56df83ac4b71b86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a9d5c21bd300f4aa06dcee458011053a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/niko/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a9d5c21bd300f4aa06dcee458011053a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1bb1a4f02f99a4c81805ed3fef35f025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1bb1a4f02f99a4c81805ed3fef35f025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2adc378e2ca0fa71f72be93592347f50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2adc378e2ca0fa71f72be93592347f50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b4dfde77c9746bdff0260118bd6a77f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b4dfde77c9746bdff0260118bd6a77f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad9a2ab676e6666018599882623d5423/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/niko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad9a2ab676e6666018599882623d5423/AndroidManifest.xml:20:5-44
+INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+		ADDED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/niko/AndroidStudioProjects/Camera2Basic/Application/src/main/AndroidManifest.xml
