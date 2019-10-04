@@ -48,6 +48,7 @@
   - Log.i logs an informational messsage.  First arg, (e.g. MainActivity) creates log message with I/MainActivity.
   - Activities or Fragments can be LifecycleOwners [LifecycleOwner interface](https://developer.android.com/reference/android/arch/lifecycle/LifecycleOwner).  The LifecycleOwner, owns an instance of the Lifecycle class [Lifecycle](https://developer.android.com/reference/android/arch/lifecycle/Lifecycle.html).  Annotate code to run on (a)  [Lifecycle.Event](https://developer.android.com/reference/android/arch/lifecycle/Lifecycle.Event.html)
   - LifecycleOwners implement the [LifecycleObserver interface](https://developer.android.com/reference/android/arch/lifecycle/LifecycleObserver)
+  - System has a bundle.  bundle#getInt in the onSaveInstanceState which is called before theonStop lifecycle method.  bundle#getInt which we have access to in onCreate.
    
  * Questions/Comments 
    - Storing View references as lateinit, initializing in onCreate
