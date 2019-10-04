@@ -5,6 +5,7 @@
   - [Click Counter](https://lh3.googleusercontent.com/-L5lU3tmGTYM/XZTPDyOFpkI/AAAAAAAAIN4/CerE5A-5STwxFcrTXSbUFBzpGHU_qOgrQCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/index.html?index=..%2F..android-training#1)
   - [Dice Roller](https://lh3.googleusercontent.com/-BBTL_IfKlIM/XZUk7n17OlI/AAAAAAAAIOk/atPN8UOE6GcltWefdEpYO1_G4IHR2Zo4wCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat/index.html?index=..%2F..android-kotlin-fundamentals#1)
   - [Color Picker](https://lh3.googleusercontent.com/-3135Ax2NMGk/XZUk8JzwllI/AAAAAAAAIOo/m2SMsxP0jbESLSy_ynl5z8ynnD0sJtUeQCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/index.html?index=..%2F..android-kotlin-fundamentals#1)
+  - [Trivia Game!](https://lh3.googleusercontent.com/-WDNXGUrTlxs/XZY96b_h5EI/AAAAAAAAIPY/OdgKQF0G42ksqjq-7Zi4SneJQ81lTUuTACK8BGAsYHg/s0/2019-10-03.png) - [code Link](AndroidTrivia-Starter)
 
 * Resources 
   - [Sample Apps](https://github.com/googlesamples)
@@ -38,6 +39,14 @@
    
  * Fragments, Binding 
    - Navigation library to build a navigation graph from 1 fra  
+   
+ * Sharing on Fb/hangouts/copy [link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/index.html?index=..%2F..android-kotlin-fundamentals#4)  use an implicit Intent, use startActivity() and resolveActivity() with intent.
+ 
+ * Logging and Lifecycle
+  - Activities and Fragments share similar lifecycle methods, but not exactly.
+  - Activity has onCreate called once.  Then onStart is called whenever that activity switches into View.
+  - Log.i logs an informational messsage.  First arg, (e.g. MainActivity) creates log message with I/MainActivity.
+  
    
  * Questions/Comments 
    - Storing View references as lateinit, initializing in onCreate
