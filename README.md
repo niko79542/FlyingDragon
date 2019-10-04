@@ -50,7 +50,10 @@
    
  * Questions/Comments 
    - Storing View references as lateinit, initializing in onCreate
-   - Wow there are [a lot](https://developer.android.com/reference/android/view/View) of interactive methods available for the View class 
+   - Speeding up builds? [Link](https://buck.build/)
+   - [Gradle remove build cache misses?](https://www.youtube.com/watch?v=2frfDMJwvf4&feature=youtu.be&t=384)
+   - Local build cache vs remote build cache 
+   
    
   * Bugs
    - View.findNavigationController() cannot find navHost.  
