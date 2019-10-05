@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="app_spacing">16px</dimen>
+    <dimen name="myStyle">
+        <style name="text_alignment">center</style>
+    </dimen>
 </resources>
