@@ -55,6 +55,10 @@
    - Speeding up builds? [Link](https://buck.build/)
    - [Gradle remove build cache misses?](https://www.youtube.com/watch?v=2frfDMJwvf4&feature=youtu.be&t=384)
    - Local build cache vs remote build cache 
+   - Using private anon functions for onClick listeners 
+   - binding is a NEW feature.  Andriod studio 3.6?
+   - convention mVarName for member variable.
+   - 
    
    
   * Bugs
