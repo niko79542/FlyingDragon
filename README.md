@@ -6,6 +6,7 @@
   - [Dice Roller](https://lh3.googleusercontent.com/-BBTL_IfKlIM/XZUk7n17OlI/AAAAAAAAIOk/atPN8UOE6GcltWefdEpYO1_G4IHR2Zo4wCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat/index.html?index=..%2F..android-kotlin-fundamentals#1)
   - [Color Picker](https://lh3.googleusercontent.com/-3135Ax2NMGk/XZUk8JzwllI/AAAAAAAAIOo/m2SMsxP0jbESLSy_ynl5z8ynnD0sJtUeQCK8BGAsYHg/s0/2019-10-02.png) - [Link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/index.html?index=..%2F..android-kotlin-fundamentals#1)
   - [Trivia Game!](https://lh3.googleusercontent.com/-WDNXGUrTlxs/XZY96b_h5EI/AAAAAAAAIPY/OdgKQF0G42ksqjq-7Zi4SneJQ81lTUuTACK8BGAsYHg/s0/2019-10-03.png) - [code Link](AndroidTrivia-Starter)
+  - [Geo Trivia Game](https://lh3.googleusercontent.com/-mVp4GLVA20k/XZk2WueyzCI/AAAAAAAAAGg/BTTO7XTa7WwMRJ8_0SyrytlQy93tjKSXQCK8BGAsYHg/s0/2019-10-05.png) - [code Link](GeoQuiz)
 
 * Resources 
   - [Sample Apps](https://github.com/googlesamples)
@@ -58,7 +59,7 @@
    - Using private anon functions for onClick listeners 
    - binding is a NEW feature.  Andriod studio 3.6?
    - convention mVarName for member variable.
-   - 
+   - ant android build tools>?... adb install
    
    
   * Bugs

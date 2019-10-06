@@ -15,7 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:lineSpacingExtra="2dp"
-        android:text="@string/questionOne"
+        android:text=""
         android:textAlignment="center"
         android:textSize="22sp"
         android:textStyle="bold"
@@ -32,7 +32,7 @@
         android:layout_marginTop="@dimen/app_spacing">
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/trueButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -40,7 +40,7 @@
             android:text="@string/trueButton" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/falseButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -48,7 +48,11 @@
 
     </LinearLayout>
 
-
+    <Button
+        android:id="@+id/buttonNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next" />
 
 
 </LinearLayout>
