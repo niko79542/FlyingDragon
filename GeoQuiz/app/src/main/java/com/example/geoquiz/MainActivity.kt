@@ -2,6 +2,8 @@ package com.example.geoquiz
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.PersistableBundle
+import android.util.Log
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
@@ -10,6 +12,8 @@ import android.widget.Toast
 class TrueFalse {
 
 }
+
+const val QUESTION_INDEX = "QUESTION_INDEX"
 
 class MainActivity : AppCompatActivity() {
 
@@ -39,18 +43,30 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         questionText = findViewById(R.id.firstQuestion)
 
-        setNextQuetsion()
+        if (savedInstanceState != null) {
+            questionIndex = savedInstanceState.getInt(QUESTION_INDEX)
+        }
+
+
+        setQuestion()
         setListeners()
     }
 
-    private fun setNextQuetsion() {
+    private fun setQuestion() {
         currentQuestion = questions[questionIndex]
         currentAnswer = when (currentQuestion.answer) {
             true -> R.id.trueButton
             else -> R.id.falseButton
         }
         questionText.setText(currentQuestion.text)
-        questionIndex++
+
+
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+
+        outState.putInt(QUESTION_INDEX, questionIndex)
     }
 
     private fun checkAnswer(view: View) {
@@ -64,8 +80,15 @@ class MainActivity : AppCompatActivity() {
         val myToast = Toast.makeText(this, toastMessage, Toast.LENGTH_SHORT)
         myToast.show()
 
+        questionIndex = (questionIndex + 1) % questions.size
 
 
+
+    }
+
+    private fun setNextQuestion() {
+        questionIndex = (questionIndex + 1) % questions.size
+        setQuestion()
     }
 
     private fun setListeners() {
@@ -77,7 +100,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<Button>(R.id.buttonNext).setOnClickListener { view: View ->
-            setNextQuetsion()
+            setNextQuestion()
         }
     }
 }
