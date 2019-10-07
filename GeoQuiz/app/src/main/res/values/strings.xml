@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
+    <string name="score_board">0/5</string>
     <string name="questionOne">San Francisco is the capital of the United States!</string>
     <string name="falseButton">False</string>
     <string name="trueButton">True</string>
@@ -12,4 +13,5 @@ and the Indian Ocean.</string>
     <string name="question_americas">The Amazon River is the longest river
 in the Americas.</string>
     <string name="question_asia">squinty Eyes?</string>
+    <string name="scorePore">Score: %1$d/%2$d</string>
 </resources>

@@ -7,26 +7,37 @@
     tools:context=".MainActivity"
     android:gravity="center"
     android:layout_marginHorizontal="@dimen/app_spacing"
+
     android:orientation="vertical">
 
 
     <TextView
+        android:id="@+id/seeScore"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="start|left"
+        android:text="@string/score_board" />
+
+    <TextView
         android:id="@+id/firstQuestion"
+        style="@style/standardText"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:lineSpacingExtra="2dp"
         android:text=""
-        android:textAlignment="center"
-        android:textSize="22sp"
-        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/app_name" />
 
     <LinearLayout
+        android:id="@+id/answerBoxes"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="0dp"
         android:orientation="horizontal"
         app:layout_constraintTop_toBottomOf="@id/firstQuestion"
         android:layout_marginTop="@dimen/app_spacing">
@@ -36,6 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            style="@style/standardText"
             android:layout_marginEnd="@dimen/app_spacing"
             android:text="@string/trueButton" />
 
@@ -44,15 +56,31 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            style="@style/standardText"
             android:text="@string/falseButton" />
 
     </LinearLayout>
 
-    <Button
-        android:id="@+id/buttonNext"
+    <LinearLayout
+        android:id="@+id/nextQuestion"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/next" />
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/answerBoxes"
+        android:layout_marginTop="@dimen/app_spacing">
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_margin="25dp"
+            android:background="@color/colorAccent"
+            android:padding="@dimen/app_spacing"
+            android:text="@string/next"
+            android:textSize="28sp" />
+
+    </LinearLayout>
 
 
 </LinearLayout>
